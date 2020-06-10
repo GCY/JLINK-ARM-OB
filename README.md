@@ -1,7 +1,7 @@
 # JLINK-ARM-OB
 This is JLink-OB ARM ICE tool, [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/JLINK-ARM-OB/blob/master/J-Link%20OB-STM32F103%20V1%20compiled%20Jan%20%207%202019/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) extract from v6.44 JLinkARM.dll.
 
-This version([STM32F103 Jan 7 2019 firmware](https://github.com/GCY/JLINK-ARM-OB/blob/master/J-Link%20OB-STM32F103%20V1%20compiled%20Jan%20%207%202019/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) extract from v6.44 JLinkARM.dll.) failed to upgrade the firmware of the JLink-OB with JLinkConfig.
+This version([STM32F103 Jan 7 2019](https://github.com/GCY/JLINK-ARM-OB/blob/master/J-Link%20OB-STM32F103%20V1%20compiled%20Jan%20%207%202019/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) ) failed to upgrade the firmware of the JLink-OB with JLinkConfig.
 
 ![](https://github.com/GCY/JLINK-ARM-OB/blob/master/J-Link%20OB-STM32F103%20V1%20compiled%20Jan%20%207%202019/JLinkARM.dll%20dump%20%20firmware.png?raw=true)
 
