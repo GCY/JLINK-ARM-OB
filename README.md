@@ -19,7 +19,7 @@ This version([STM32F103 Jan 7 2019](https://github.com/GCY/JLINK-ARM-OB/blob/mas
 
  - 1.J-Link > mem 0x8000000 40960
  - 2.Test dump target flash.
- - 3.done.
+ - 3.You DIY JLink-OB done.
 ![](https://github.com/GCY/JLINK-ARM-OB/blob/master/J-Link%20OB-STM32F103%20V1%20compiled%20Jan%20%207%202019/mem%200x8000000%2040960/dump%20STM32F405%20mem%200x8000000%2040960%20with%20JLink-OB%201.png?raw=true)
 
 ## Reference
